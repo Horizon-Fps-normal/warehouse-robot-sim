@@ -1,0 +1,11 @@
+/build/
+/install/
+/log/
+/bags/
+/warehouse_drive_*/
+/warehouse_final_*/
+*.mcap
+*.db3
+__pycache__/
+*.pyc
+/.vscode/
